@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/1940
 
-package back1940;
+package backjoon.back1940;
 
 import java.io.*;
 import java.util.StringTokenizer;

@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/2018
 
-package back2018;
+package backjoon.back2018;
 
 import java.io.*;
 

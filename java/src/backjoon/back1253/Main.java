@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/1253
 
-package back1253;
+package backjoon.back1253;
 
 import java.io.*;
 import java.util.Arrays;
