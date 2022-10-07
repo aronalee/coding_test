@@ -1,3 +1,5 @@
+// prob: https://www.acmicpc.net/problem/1931
+
 package backjoon.back1931;
 
 import java.io.*;
