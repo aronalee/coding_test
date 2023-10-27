@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/19583
 
-package random_depense.back19583;
+package backjoon.back19583;
 
 import java.time.LocalTime;
 import java.util.HashSet;
