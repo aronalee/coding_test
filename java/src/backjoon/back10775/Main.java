@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/10775
 
-package random_depense.back10775;
+package backjoon.back10775;
 
 import java.io.*;
 import java.util.LinkedList;
