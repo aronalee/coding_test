@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/12931
 
-package random_depense.back12931;
+package backjoon.back12931;
 
 public class Back12931 {
     private int useCondition1Count = 0;
