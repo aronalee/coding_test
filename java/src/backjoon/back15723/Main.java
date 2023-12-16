@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/15723
 
-package random_depense.back15723;
+package backjoon.back15723;
 
 import java.io.*;
 import java.util.HashMap;
