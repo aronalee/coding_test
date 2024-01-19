@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/15787
 
-package random_depence.back15787;
+package backjoon.back15787;
 
 import java.io.*;
 import java.util.InputMismatchException;
