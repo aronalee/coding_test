@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/11256
 
-package random_depnence.back11256;
+package backjoon.back11256;
 
 public class Box {
     private final int row;
