@@ -1,6 +1,9 @@
 // prob: https://www.acmicpc.net/problem/7490
 
-package random_depnence.back7490;
+package backjoon.back7490;
+
+import backjoon.Back7490;
+import backjoon.OperationCase;
 
 import java.io.*;
 import java.util.Comparator;

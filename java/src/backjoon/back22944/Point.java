@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/22944
 
-package random_depnence.back22944;
+package backjoon.back22944;
 
 public class Point {
     public static final Point EMPTY = new Point(-1, -1);

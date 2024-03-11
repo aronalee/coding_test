@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/22944
 
-package random_depnence.back22944;
+package backjoon.back22944;
 
 import java.util.Arrays;
 import java.util.LinkedList;
