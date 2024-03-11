@@ -2,9 +2,6 @@
 
 package backjoon.back7490;
 
-import backjoon.Back7490;
-import backjoon.OperationCase;
-
 import java.io.*;
 import java.util.Comparator;
 import java.util.List;

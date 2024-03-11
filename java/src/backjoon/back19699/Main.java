@@ -2,8 +2,6 @@
 
 package backjoon.back19699;
 
-import backjoon.Back19699;
-
 import java.io.*;
 import java.util.LinkedList;
 import java.util.List;
