@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/8983
 
-package random_depnence.back8983;
+package backjoon.back8983;
 
 public class Point {
     private final int y;
