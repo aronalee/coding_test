@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/21924
 
-package random_depnence.back21924;
+package backjoon.back21924;
 
 import java.io.*;
 import java.util.Comparator;

@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/2435능
 
-package random_depnence.back2435;
+package backjoon.back2435;
 
 import java.io.*;
 import java.util.Arrays;
