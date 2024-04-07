@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/12761
 
-package random_depnence.back12761;
+package backjoon.back12761;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
