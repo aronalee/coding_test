@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/15721
 
-package random_depnence.back15721;
+package backjoon;
 
 import java.io.*;
 
