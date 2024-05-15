@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/12919
 
-package random_depnence.back12919;
+package backjoon;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
