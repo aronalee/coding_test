@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/12919
 
-package backjoon;
+package backjoon.back12919;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

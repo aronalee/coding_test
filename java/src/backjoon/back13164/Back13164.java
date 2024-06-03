@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/13164
 
-package backjoon;
+package backjoon.back13164;
 
 import java.util.ArrayList;
 import java.util.List;

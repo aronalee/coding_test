@@ -2,8 +2,6 @@
 
 package backjoon.back13164;
 
-import backjoon.Back13164;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.List;

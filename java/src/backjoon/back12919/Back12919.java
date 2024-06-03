@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/12919
 
-package backjoon;
+package backjoon.back12919;
 
 import java.util.Collections;
 import java.util.LinkedList;

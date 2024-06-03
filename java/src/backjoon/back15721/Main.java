@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/15721
 
-package backjoon;
+package backjoon.back15721;
 
 import java.io.*;
 

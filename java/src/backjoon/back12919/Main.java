@@ -2,8 +2,6 @@
 
 package backjoon.back12919;
 
-import backjoon.Back12919;
-
 import java.io.*;
 
 public class Main {
