@@ -1,6 +1,6 @@
 // prob: https://github.com/tony9402/baekjoon/blob/main/picked.md
 
-package random_depence.back1620;
+package backjoon;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

@@ -1,8 +1,7 @@
 // prob: https://www.acmicpc.net/problem/22869
 
-package random_depence.back22869;
+package backjoon.back22869;
 
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 

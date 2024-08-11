@@ -1,6 +1,6 @@
 // prob: https://github.com/tony9402/baekjoon/blob/main/picked.md
 
-package random_depence.back1620;
+package backjoon;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

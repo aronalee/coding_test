@@ -1,6 +1,6 @@
 // prob: https://www.acmicpc.net/problem/22869
 
-package random_depence.back22869;
+package backjoon.back22869;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
