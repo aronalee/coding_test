@@ -1,6 +1,6 @@
 // prob: https://github.com/tony9402/baekjoon/blob/main/picked.md
 
-package backjoon;
+package backjoon.back18115;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
